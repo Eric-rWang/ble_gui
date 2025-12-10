@@ -1,3 +1,9 @@
 logs/
 Processed/
 deprecated/
+figure scripts/
+data/
+plots/
+models/
+app/
+
