@@ -6,4 +6,5 @@ data/
 plots/
 models/
 app/
-
+.venv/
+__pycache__/

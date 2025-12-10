@@ -1,0 +1,12 @@
+# requirements for ble_gui
+# GUI and plotting
+numpy>=1.24
+matplotlib>=3.6
+
+# Bluetooth Low Energy
+bleak>=0.20
+
+# Optional: Tkinter is part of the Python standard library on most platforms
+# On Windows, install Python from python.org to get Tk (or use a distribution that bundles Tk).
+
+# Pin exact versions if needed for reproducible environments
